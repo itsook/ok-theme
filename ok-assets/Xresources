@@ -1,0 +1,41 @@
+!!!!!!
+! OK !
+!!!!!!
+
+! special
+*.foreground:   #d2daf4
+*.background:   #0b0d10
+*.cursorColor:  #d2daf4
+
+! black
+*.color0:       #636c7e
+*.color8:       #6e7b8f
+
+! red
+*.color1:       #c44949
+*.color9:       #e15858
+
+! green
+*.color2:       #3fcc6c
+*.color10:      #53db7f
+
+! yellow
+*.color3:       #dfa93f
+*.color11:      #daa640
+
+! blue
+*.color4:       #3580c1
+*.color12:      #4796d9
+
+! magenta
+*.color5:       #ac45cc
+*.color13:      #b057cb
+
+! cyan
+*.color6:       #36b5a4
+*.color14:      #51d5c3
+
+! white
+*.color7:       #6e7d8a
+*.color15:      #b5cdbd
+
