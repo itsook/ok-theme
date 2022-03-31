@@ -4,6 +4,7 @@
 
 | img                                                                          | Value    | Name         | Hex       | 
 | ---------------------------------------------------------------------------- | -------- | ------------ | --------- |
+| <img src="/.github/assets/dark/bg.png" height="23" width="23"/>              | bg       | background   | #0b0d10   |
 | <img src="/.github/assets/dark/black.png" height="23" width="23"/>           | 000      | black        | #636c7e   | 
 | <img src="/.github/assets/dark/red.png" height="23" width="23"/>             | 001      | Dark red     | #c44949   |
 | <img src="/.github/assets/dark/green.png" height="23" width="23"/>           | 002      | Dark green   | #3fcc6c   |
