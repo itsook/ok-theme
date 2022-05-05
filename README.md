@@ -2,6 +2,8 @@
 
 <br>
 
+<img src="https://i.imgur.com/fXto42a.png"/>
+
 | img                                                                          | Value    | Name         | Hex       | 
 | ---------------------------------------------------------------------------- | -------- | ------------ | --------- |
 | <img src="/.github/assets/dark/bg.png" height="23" width="23"/>              | bg       | background   | #0b0d10   |
@@ -23,7 +25,11 @@
 | <img src="/.github/assets/bright/fg.png" height="23" width="23"/>            | 015      | White         | #d2daf4  |
 
 
+### Showcase 📸
+
+<img src="https://i.imgur.com/ZuxePUp.png"/>
+
 ok
 
 
-
+<h3 align="center"> By ok Gang 😎 </h3>
