@@ -1,6 +1,10 @@
-<h1 align="center">ok</h1>
+<h1 align="center">Ok Color Scheme ⚗️ </h1>
 
 <br>
+<br>
+<br>
+
+<img src="https://i.imgur.com/1MPjL7c.png"/>
 
 | img                                                                          | Value    | Name         | Hex       | 
 | ---------------------------------------------------------------------------- | -------- | ------------ | --------- |
@@ -20,10 +24,11 @@
 | <img src="/.github/assets/bright/blue.png" height="23" width="23"/>          | 012      | Blue         | #4796d9   |
 | <img src="/.github/assets/bright/magenta.png" height="23" width="23"/>       | 013      | Magenta      | #b057cb   |
 | <img src="/.github/assets/bright/cyan.png" height="23" width="23"/>          | 014      | Cyan         | #51d5c3   |
-| <img src="/.github/assets/bright/fg.png" height="23" width="23"/>            | 015      | White         | #d2daf4  |
-
+| <img src="/.github/assets/bright/fg.png" height="23" width="23"/>            | 015      | White        | #d2daf4  |
 
 ok
+
+<h3 align="center">By Ok Gang 😎 </h3>
 
 
 
